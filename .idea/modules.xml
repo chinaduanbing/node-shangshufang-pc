@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/longMarchNodeJsPc.iml" filepath="$PROJECT_DIR$/.idea/longMarchNodeJsPc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-shangshufang-pc/node-shangshufang-pc.iml" filepath="$PROJECT_DIR$/node-shangshufang-pc/node-shangshufang-pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node-shangshufang-pc/nod-shangshufang-pc-web/web.iml" filepath="$PROJECT_DIR$/node-shangshufang-pc/nod-shangshufang-pc-web/web.iml" />
+    </modules>
+  </component>
+</project>
